@@ -14,7 +14,7 @@
 
 ## 4. Django Backend 구현
 - 기간 : 8월 1일 ~ 진행중
-- 
+- https://github.com/M-6J/djangoProject/tree/version1
 
 
 
