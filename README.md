@@ -16,6 +16,12 @@
 - 기간 : 8월 1일 ~ 진행중
 - https://github.com/M-6J/djangoProject/tree/version1
 
+## 5. SQLD
+- 시험 접수기간 : 8.8 ~ 8.12
+- 책 : 2022 유선배 SQL개발자(SQLD) 과외노트
+- http://www.yes24.com/Product/Goods/105913318
 
+## 6. DASP
+- 시험 접수기간 : 8.22 ~ 8.26
 
 
