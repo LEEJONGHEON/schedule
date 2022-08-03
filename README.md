@@ -6,12 +6,15 @@
 
 ## 2.Labeling 강의
 - 기간 : 8월 1일 ~ 8월 11일
+- http://aidata.elancer.co.kr/student/main.php
 
 ## 3. BlockChain 수업
 - 기간 : 7월 13일 ~ 9월 7일
+- https://projectlion.io/courses/technology/groundx_3
 
 ## 4. Django Backend 구현
 - 기간 : 8월 1일 ~ 진행중
+- 
 
 
 
