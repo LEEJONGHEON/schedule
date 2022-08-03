@@ -1,5 +1,8 @@
 # schedule
 - 스케줄 정리
+## 0.Chatbot 공부
+- 시작일 : 2022.08.08 ~ 
+
 ## 1.Postech 강의
 - 강좌 운영시기 : 08. 08(월) ~ 09. 30(금)
 - https://pabi.smartlearn.io/
